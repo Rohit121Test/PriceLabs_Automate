@@ -1,0 +1,38 @@
+{
+  "credentials": {
+    "email": "qa.pricelabs@gmail.com",
+    "password": "qg33N$yxJP"
+  },
+  "singleDate": {
+    "propertyName": "New Seasonal Property",
+    "finalPrice": 100,
+    "minPrice": 80,
+    "maxPrice": 140,
+    "basePrice": 120,
+    "listingId": "VRMREALTY___50",
+    "currency": "USD",
+    "colIndex": 15
+  },
+  "bulkUpdate": {
+    "finalPrice": 164,
+    "listingIds": [
+      "VRMREALTY___246",
+      "VRMREALTY___50"
+    ],
+    "dateOffsetStart": 1,
+    "dateOffsetEnd": 3
+  },
+  "dragDrop": {
+    "finalPrice": 100,
+    "dragStartIndex": 10,
+    "dragEndIndex": 13
+  },
+  "negative": {
+    "negativeFinalNumber": -123,
+    "colIndex": 14
+  },
+  "drag_drop": {
+    "expectedStartDate": "Mar 28, \u201926",
+    "expecetdEndDate": "Mar 31, \u201926"
+  }
+}

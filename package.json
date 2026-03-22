@@ -1,0 +1,16 @@
+{
+  "name": "pricelabs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "cypress-mochawesome-reporter": "^4.0.2"
+  }
+}
